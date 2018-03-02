@@ -1,0 +1,14 @@
+F:\Sun\Study\EasyUIManagement\Management.IBLL\obj\Debug\Management.IBLL.csprojResolveAssemblyReference.cache
+F:\Sun\Study\EasyUIManagement\Management.IBLL\obj\Debug\Management.IBLL.csproj.CoreCompileInputs.cache
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.IBLL.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.IBLL.pdb
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.Common.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.Models.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\EntityFramework.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.Common.pdb
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.Models.pdb
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\Management.Models.dll.config
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\EntityFramework.xml
+F:\Sun\Study\EasyUIManagement\Management.IBLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\obj\Debug\Management.IBLL.dll
+F:\Sun\Study\EasyUIManagement\Management.IBLL\obj\Debug\Management.IBLL.pdb

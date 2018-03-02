@@ -1,0 +1,5 @@
+F:\Sun\Study\EasyUIManagement\Management.Common\bin\Debug\Management.Common.dll
+F:\Sun\Study\EasyUIManagement\Management.Common\bin\Debug\Management.Common.pdb
+F:\Sun\Study\EasyUIManagement\Management.Common\obj\Debug\Management.Common.csproj.CoreCompileInputs.cache
+F:\Sun\Study\EasyUIManagement\Management.Common\obj\Debug\Management.Common.dll
+F:\Sun\Study\EasyUIManagement\Management.Common\obj\Debug\Management.Common.pdb

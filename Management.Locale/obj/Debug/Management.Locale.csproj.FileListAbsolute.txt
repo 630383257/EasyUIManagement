@@ -1,0 +1,6 @@
+F:\Sun\Study\EasyUIManagement\Management.Locale\bin\Debug\Management.Locale.dll
+F:\Sun\Study\EasyUIManagement\Management.Locale\bin\Debug\Management.Locale.pdb
+F:\Sun\Study\EasyUIManagement\Management.Locale\obj\Debug\Management.Locale.csprojResolveAssemblyReference.cache
+F:\Sun\Study\EasyUIManagement\Management.Locale\obj\Debug\Management.Locale.csproj.CoreCompileInputs.cache
+F:\Sun\Study\EasyUIManagement\Management.Locale\obj\Debug\Management.Locale.dll
+F:\Sun\Study\EasyUIManagement\Management.Locale\obj\Debug\Management.Locale.pdb

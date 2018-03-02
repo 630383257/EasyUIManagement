@@ -1,0 +1,12 @@
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\Management.IDAL.dll
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\Management.IDAL.pdb
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\Management.Models.dll
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\EntityFramework.dll
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\Management.Models.pdb
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\Management.Models.dll.config
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\EntityFramework.xml
+F:\Sun\Study\EasyUIManagement\Management.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Sun\Study\EasyUIManagement\Management.IDAL\obj\Debug\Management.IDAL.csprojResolveAssemblyReference.cache
+F:\Sun\Study\EasyUIManagement\Management.IDAL\obj\Debug\Management.IDAL.csproj.CoreCompileInputs.cache
+F:\Sun\Study\EasyUIManagement\Management.IDAL\obj\Debug\Management.IDAL.dll
+F:\Sun\Study\EasyUIManagement\Management.IDAL\obj\Debug\Management.IDAL.pdb

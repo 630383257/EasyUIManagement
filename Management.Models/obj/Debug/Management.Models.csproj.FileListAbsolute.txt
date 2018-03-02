@@ -1,0 +1,13 @@
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\Management.Models.dll.config
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\Management.Models.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\Management.Models.pdb
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\EntityFramework.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\EntityFramework.xml
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\obj\Debug\Management.Models.csprojResolveAssemblyReference.cache
+F:\Sun\Study\EasyUIManagement\Management.Models\obj\Debug\Management.Models.csproj.CoreCompileInputs.cache
+F:\Sun\Study\EasyUIManagement\Management.Models\obj\Debug\Management.Models.dll
+F:\Sun\Study\EasyUIManagement\Management.Models\obj\Debug\Management.Models.pdb
